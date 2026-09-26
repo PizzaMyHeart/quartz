@@ -1,0 +1,5 @@
+[Insights into Imaging facial fractures](https://doi.org/10.1186/s13244-020-00847-w)
+[Insights into Imaging orbital fractures](https://doi.org/10.1186/s13244-021-01142-y)
+[Orbital and facial fractures (Clinics)](https://geiselmed.dartmouth.edu/radiology/wp-content/uploads/sites/47/2019/04/Orbital-and-Facial-Fractures-2014-Uzelac.pdf)
+[Radiographics 2013 facial trauma](https://geiselmed.dartmouth.edu/radiology/wp-content/uploads/sites/47/2019/04/Imaging-Findings-in-Complex-Facial-Skeletal-Trauma-2013-Winegar.pdf)
+[AJR Le Fort](https://doi.org/10.2214/ajr.184.5.01841700)
